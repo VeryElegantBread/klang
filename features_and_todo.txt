@@ -1,0 +1,14 @@
+FEATURES:
+
+TODO:
+- variables
+- print
+- math
+- wait
+- if statements
+- input
+- loops
+- functions
+- random
+- reading files
+- writing files
