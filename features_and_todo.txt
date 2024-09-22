@@ -1,9 +1,10 @@
 FEATURES:
+- print
 
 TODO:
-- variables
-- print
 - math
+- variables
+- exit
 - wait
 - if statements
 - input
